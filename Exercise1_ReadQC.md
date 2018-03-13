@@ -19,11 +19,17 @@ There should be only one dataset which contains the meta-information of the raw 
 9. Explore the FastQC-Report
 ![alt text](https://github.com/opitzl/CombinedCourse/blob/master/E1_S8.png "Screenshot8")
 10. Questions: 
+
 Quantity:
-Are there under/overrepresented libraries?
+
+* Are there under/overrepresented libraries?
+
 Quality:
-Are there differences in quality scores across all bases?
-Was an adapter contamination detected? Are there differences across the libraries?
-Do you see a relationship between GC-content and adapter content/primer dimers?
+
+* Are there differences in quality scores across all bases?
+
+* Was an adapter contamination detected? Are there differences across the libraries?
+
+* Do you see a relationship between GC-content and adapter content/primer dimers?
 
 → What could be a good preprocessing strategy for our data?
