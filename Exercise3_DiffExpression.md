@@ -16,7 +16,7 @@
   
   Hint: Compare under Count Statistics ‚totalReads’ vs. ‚GenomicFeaturesWithReadsAboveThreshold’ 
 
-4.Run EdgeRApp on featureCounts-dataset with options
+4. Run EdgeRApp on featureCounts-dataset with options
 
  sampleGroup=Glyc_Eth 
 
@@ -26,7 +26,7 @@
 
  It will compare Glyc_Eth vs. Glucose.
 
-5.Explore ‚Static Report’:
+5. Explore ‚Static Report’:
 
  How many genes are regulated with FC>2 & pValue<0.001 in comparison to all present genes?
 
