@@ -10,25 +10,25 @@
 
 3. Explore resulting ‚Static Report’:
 
-. Are the samples clustering by biological condition (dendrograms in ‚Sample Clustering’)? 
+⋅ Are the samples clustering by biological condition (dendrograms in ‚Sample Clustering’)? 
 
-. Is it worth to generate more reads for underrepresented libraries?
-.. Hint: Compare under Count Statistics ‚totalReads’ vs. ‚GenomicFeaturesWithReadsAboveThreshold’ 
+⋅ Is it worth to generate more reads for underrepresented libraries?
+⋅⋅ Hint: Compare under Count Statistics ‚totalReads’ vs. ‚GenomicFeaturesWithReadsAboveThreshold’ 
 
 4. Run EdgeRApp on featureCounts-dataset with options
 
-. sampleGroup=Glyc_Eth 
+⋅ sampleGroup=Glyc_Eth 
 
-. refGroup=Glucose 
+⋅ refGroup=Glucose 
 
-. runGO=true
+⋅ runGO=true
 
 It will compare Glyc_Eth vs. Glucose.
 
 5. Explore ‚Static Report’:
 
-. How many genes are regulated with FC>2 & pValue<0.001 in comparison to all present genes?
+⋅ How many genes are regulated with FC>2 & pValue<0.001 in comparison to all present genes?
 
-. Are more genes up- or down-regulated?
+⋅ Are more genes up- or down-regulated?
 
-. What is foldChange and pValue for YHR094C (HXT1, Glucose Transporter)?
+⋅ What is foldChange and pValue for YHR094C (HXT1, Glucose Transporter)?
