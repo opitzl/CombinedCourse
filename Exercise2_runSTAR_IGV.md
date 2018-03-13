@@ -8,6 +8,7 @@
 
 4. Navigate to IGV Website and launch IGV with 750 MB option: 
 http://software.broadinstitute.org/software/igv/download
+
 ![alt text](https://github.com/opitzl/CombinedCourse/blob/master/E2_S3.png "Screenshot4")
 5.	Select corresponding reference in IGV:
 
@@ -16,9 +17,9 @@ http://software.broadinstitute.org/software/igv/download
 6.	Load BAM-File(s) into IGV:
 
 *	Copy URL for BAM-File from Sushi
-![alt text](https://github.com/opitzl/CombinedCourse/blob/master/E2_S5.png "Screenshot6")
+![alt text](https://github.com/opitzl/CombinedCourse/blob/master/E2_S5.png "Screenshot5")
 *	Paste URL into IGV via File → Load from URL:
-![alt text](https://github.com/opitzl/CombinedCourse/blob/master/E2_S6.png "Screenshot7")
+![alt text](https://github.com/opitzl/CombinedCourse/blob/master/E2_S6.png "Screenshot6")
 *	Repeat ‚Copy & Paste’ with another sample of the other condition to load one file per biological group (glucose & glycerol eth) 
 
 7.	Search for Gene ‚YHR094C’ (=HXT1) and explore result
