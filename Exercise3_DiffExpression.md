@@ -1,4 +1,4 @@
-Exercise III – Quantification & Differential Expression
+# Exercise III – Quantification & Differential Expression
 
 1.	Select dataset from STAR mapping (STAR_...) in Sushi and run ‚FeatureCountApp’ with default options.
 
