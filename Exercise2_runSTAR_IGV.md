@@ -10,6 +10,7 @@
 http://software.broadinstitute.org/software/igv/download
 
 ![alt text](https://github.com/opitzl/CombinedCourse/blob/master/E2_S3.png "Screenshot4")
+
 5.	Select corresponding reference in IGV:
 
 *	If available  use ‚S. cerevisae R64’ otherwise ‚S. cerevisiae (sacCer3)’ 
@@ -25,6 +26,7 @@ http://software.broadinstitute.org/software/igv/download
 7.	Search for Gene ‚YHR094C’ (=HXT1) and explore result
 
 8.	Questions:
+
 Is there a difference in gene expression for ‚YHR094C’ between the conditions?
 
 What is the orientation of the reads in comparison to the reference (color alignment by read strand)?
