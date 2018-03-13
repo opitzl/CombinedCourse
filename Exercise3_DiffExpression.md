@@ -2,11 +2,11 @@
 
 1. Select dataset from STAR mapping (STAR_...) in Sushi and run ‚FeatureCountApp’ with default options.
 
-![alt text](https://github.com/opitzl/CombinedCourse/blob/master/E3_S1.png "Screenshot1")
+![alt text](https://github.com/opitzl/CombinedCourse/blob/master/images/E3_S1.png "Screenshot1")
 
 2. Run CountQCApp on resulting dataset with option runGO=true
 
-![alt text](https://github.com/opitzl/CombinedCourse/blob/master/E3_S2.png "Screenshot2")
+![alt text](https://github.com/opitzl/CombinedCourse/blob/master/images/E3_S2.png "Screenshot2")
 
 3. Explore resulting ‚Static Report’:
 
